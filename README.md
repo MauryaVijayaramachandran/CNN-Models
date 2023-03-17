@@ -1,13 +1,13 @@
-#Keras Model
+# Keras Model
 This is a Keras model built using the TensorFlow backend. The model is a convolutional neural network that classifies images into 10 classes.
 
-##Installation
+## Installation
 To use this model, you need to have Python and TensorFlow installed. You can install TensorFlow using pip.
 
 You also need to have Keras installed. You can install Keras using pip
 
 
-##Usage
+## Usage
 To use this model, you can follow these steps:
 
 1. Load the data: You can load your own data or use the built-in datasets provided by Keras.
